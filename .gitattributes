@@ -1,3 +1,4 @@
 data_nn/* filter=lfs diff=lfs merge=lfs -text
 data_ml/* filter=lfs diff=lfs merge=lfs -text
 tuned_models/* filter=lfs diff=lfs merge=lfs -text
+data/* filter=lfs diff=lfs merge=lfs -text
