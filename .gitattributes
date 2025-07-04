@@ -1,3 +1,0 @@
-git 
-data/* filter=lfs diff=lfs merge=lfs -text
-data_nn/* filter=lfs diff=lfs merge=lfs -text
