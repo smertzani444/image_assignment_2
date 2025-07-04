@@ -23,5 +23,5 @@ This project performs binary classification of chest X-ray images to distinguish
 
 1. **Clone** the repo  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/smertzani444/image_assignment_2.git
+   cd image_assignment_2
